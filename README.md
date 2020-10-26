@@ -1,6 +1,6 @@
 ### Nice to see you! I'm Jamie 🌐
 
-☀️ I'm currently in my 5th and final year of Computer Science at Strathclyde!
+☀️ I'm currently in my 5th and final year of Computer Science at Strathclyde
 
 🕸️ I love creating usable systems and fun websites in my spare time.
 
