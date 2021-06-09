@@ -1,6 +1,6 @@
 ### Nice to see you! I'm Jamie 🌐
 
-☀️ I'm currently in my 5th and final year of Computer Science at Strathclyde
+☀️ I've just graduated from MEng Computer Science at Strathclyde and now work as an Associate Developer at AND Digital
 
 🕸️ I love creating usable systems and fun websites in my spare time.
 
