@@ -1,6 +1,6 @@
 ### Nice to see you! I'm Jamie 🌐
 
-☀️ I've just graduated from MEng Computer Science at Strathclyde and now work as an Associate Developer at AND Digital
+☀️ I've just graduated from MEng Computer Science at Strathclyde and now work as a Product Developer at AND Digital
 
 🕸️ I love creating usable systems and fun websites in my spare time.
 
@@ -13,10 +13,6 @@
 - Creating digital art ([_IG_][instagram])
 
 - Djing & producing ([_Soundcloud_][soundcloud])
-
-### What I'm Listening To!
-
-[<img src="https://spotify-player-one.vercel.app/api/spotify" alt="Jamie Moyes Spotify Playing" width="350" />](https://open.spotify.com/user/21iatcavo2t4tbum42ttpanta)
 
 ### Connect!
 
