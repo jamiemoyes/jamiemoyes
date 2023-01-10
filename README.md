@@ -2,7 +2,7 @@
 
 ☀️ I've just graduated from MEng Computer Science at Strathclyde and now work as a Product Developer at AND Digital
 
-🕸️ I love creating usable systems and fun websites in my spare time.
+🕸️ I love creating usable systems fun websites in and out of work.
 
 🌴 Hobbies:
 
