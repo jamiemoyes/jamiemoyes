@@ -1,6 +1,6 @@
 ### Nice to see you! I'm Jamie 🌐
 
-☀️ I've just graduated from MEng Computer Science at Strathclyde and now work as a Product Developer at AND Digital
+☀️ Product Developer at AND Digital
 
 🕸️ I love creating usable systems fun websites in and out of work.
 
