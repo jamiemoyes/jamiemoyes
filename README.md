@@ -1,6 +1,6 @@
 ### Nice to see you! I'm Jamie 🌐
 
-☀️ Product Developer at AND Digital
+☀️ Product Developer at BR-DGE
 
 🕸️ I love creating usable systems fun websites in and out of work.
 
